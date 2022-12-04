@@ -1,9 +1,21 @@
 # Algorithms_with_JavaScript
 JavaScript Algorithms - The Fundamentals
+this files contains all of course & advance codes
 
 ## Outline
 - **week 0**: Basics & Time Complexity
 - **week 1**: Math Algorithms
+  - [ ] reverseANumber
+  - [ ] isOdd
+  - [ ] sumAll
+  - [ ] average
+  - [ ] median
+  - [ ] calculateGcd
+  - [ ] calculateLcm
+  - [ ] isPrime
+  - [ ] euclideanDistance
+  - [ ] isDivisible
+  - [ ] formatToCurrency
 - **week 2**: Recursion & Dynamic Programming
 - **week 3**: Search Algorithms
 - **week 4**: Sorting Algorithms
