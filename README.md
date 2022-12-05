@@ -12,7 +12,8 @@ this files contains all of course & advance codes
   - [ ] median
   - [ ] calculateGcd
   - [ ] calculateLcm
-  - [ ] isPrime
+  - [x] isPrime
+  - [x] fibonacci
   - [ ] euclideanDistance
   - [ ] isDivisible
   - [ ] formatToCurrency
