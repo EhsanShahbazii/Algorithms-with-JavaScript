@@ -13,7 +13,7 @@ const isPowerOfTwo = (n) => {
 
 // T = 1 + log(n) + log(n) + 1 = 2(log(n) + 1)
 /*
-Best Case: O(log(n))
+Best Case: O(1)
 Average Case: O(log(n))
 Worst Case: O(log(n))
 */
