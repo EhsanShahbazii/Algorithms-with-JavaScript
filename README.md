@@ -13,8 +13,8 @@ this files contains all of course & advance codes
   - getMin
   - isPrime
   - fibonacci
-  - [ ] euclideanDistance
-  - [ ] formatToCurrency
+  - euclideanDistance
+  - formatToCurrency
 - **week 2**: Recursion & Dynamic Programming
 - **week 3**: Search Algorithms
 - **week 4**: Sorting Algorithms
