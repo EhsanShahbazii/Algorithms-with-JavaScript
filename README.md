@@ -1,6 +1,6 @@
 # Algorithms_with_JavaScript
 JavaScript Algorithms - The Fundamentals
-this files contains all of course & advance codes
+this files contains all of course & advance codes :)
 
 ## Outline
 - **week 0**: Basics & Time Complexity
