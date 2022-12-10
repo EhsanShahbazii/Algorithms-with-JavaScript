@@ -21,6 +21,7 @@ this files contains all of course & advance codes :)
   - randomNumber
   - specDecimalFormat
 - **week 2**: Recursion & Dynamic Programming
+  - facrotial
 - **week 3**: Search Algorithms
 - **week 4**: Sorting Algorithms
 - **week 5**: Space Complexity
