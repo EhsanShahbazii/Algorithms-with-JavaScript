@@ -5,19 +5,19 @@ this files contains all of course & advance codes :)
 ## Outline
 - **week 0**: Basics & Time Complexity
 - **week 1**: Math Algorithms
-  - reverseANumber
   - average
-  - calculateGcd
-  - calculateLcm
-  - isPowerOfTwo
-  - getMin
-  - isPrime
-  - fibonacci
-  - euclideanDistance
-  - formatToCurrency
   - baseConvert
   - binaryToDecimal
+  - calculateGcd
+  - calculateLcm
+  - euclideanDistance
+  - formatToCurrency
+  - fibonacci
+  - getMin
   - hexDecConvert
+  - isPrime
+  - isPowerOfTwo
+  - reverseANumber
   - randomNumber
   - specDecimalFormat
 - **week 2**: Recursion & Dynamic Programming
