@@ -7,14 +7,19 @@ this files contains all of course & advance codes :)
 - **week 1**: Math Algorithms
   - reverseANumber
   - average
-  - [ ] calculateGcd
-  - [ ] calculateLcm
+  - calculateGcd
+  - calculateLcm
   - isPowerOfTwo
   - getMin
   - isPrime
   - fibonacci
   - euclideanDistance
   - formatToCurrency
+  - baseConvert
+  - binaryToDecimal
+  - hexDecConvert
+  - randomNumber
+  - specDecimalFormat
 - **week 2**: Recursion & Dynamic Programming
 - **week 3**: Search Algorithms
 - **week 4**: Sorting Algorithms
