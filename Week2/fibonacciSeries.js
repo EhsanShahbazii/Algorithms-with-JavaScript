@@ -7,3 +7,7 @@ const fibonacci_series = (n) => {
     return s;
   }
 };
+
+/*
+Write a JavaScript program to get the first n Fibonacci numbers
+*/
