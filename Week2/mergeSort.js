@@ -16,3 +16,7 @@ Array.prototype.merge_Sort = function () {
 
   return merge(left, right);
 };
+
+/*
+Write a merge sort program in JavaScript.
+*/
