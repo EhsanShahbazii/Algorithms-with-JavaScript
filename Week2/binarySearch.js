@@ -9,3 +9,7 @@ Array.prototype.br_search = function (target) {
     return this.slice(0, half).br_search(target);
   }
 };
+
+/*
+Write a merge sort program in JavaScript.
+*/
