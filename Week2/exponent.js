@@ -5,3 +5,7 @@ const exponent = (a, n) => {
     return a * exponent(a, n-1);
   }
 };
+
+/*
+Write a JavaScript program to compute the exponent of a number.
+*/
