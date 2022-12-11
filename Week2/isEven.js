@@ -12,3 +12,7 @@ const is_even_recursion = (number) => {
     return is_even_recursion(number);
   }
 }
+
+/*
+Write a JavaScript program to check whether a number is even or not.
+*/
