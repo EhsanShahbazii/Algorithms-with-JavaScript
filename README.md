@@ -3,7 +3,7 @@ JavaScript Algorithms - The Fundamentals
 this files contains all of course & advance codes :)
 
 ## Outline
-- **week 0**: Basics & Time Complexity
+- **week 0**: ***Basics & Time Complexity***
 - **week 1**: Math Algorithms
   - average
   - baseConvert
@@ -20,7 +20,7 @@ this files contains all of course & advance codes :)
   - reverseANumber
   - randomNumber
   - specDecimalFormat
-- **week 2**: Recursion & Dynamic Programming
+- **week 2**: ***Recursion & Dynamic Programming***
   - facrotial
   - gcd
   - getInteger
@@ -29,8 +29,8 @@ this files contains all of course & advance codes :)
   - fibonacciSeries
   - isEven
   - binarySearch
-- **week 3**: Search Algorithms
-- **week 4**: Sorting Algorithms
-- **week 5**: Space Complexity
-- **week 6**: Sets (Arrays) Algorithms
-- **week 7**: More Complex Algorithms & A "Blueprint"
+- **week 3**: ***Search Algorithms***
+- **week 4**: ***Sorting Algorithms***
+- **week 5**: ***Space Complexity***
+- **week 6**: ***Sets (Arrays) Algorithms***
+- **week 7**: ***More Complex Algorithms & A "Blueprint"***
