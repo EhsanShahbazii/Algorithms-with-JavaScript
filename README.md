@@ -25,6 +25,10 @@ this files contains all of course & advance codes :)
   - gcd
   - getInteger
   - array_sum
+  - exponent
+  - fibonacciSeries
+  - isEven
+  - binarySearch
 - **week 3**: Search Algorithms
 - **week 4**: Sorting Algorithms
 - **week 5**: Space Complexity
