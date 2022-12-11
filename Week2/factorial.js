@@ -4,3 +4,7 @@ const factorial = (number) => {
  }
   return number * factorial(number - 1);        
 }
+
+/*
+Write a JavaScript program to calculate the factorial of a number.
+*/
