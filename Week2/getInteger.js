@@ -7,3 +7,7 @@ const getInteger = (start_num, end_num) => {
     return list;
   }
 };
+
+/*
+Write a JavaScript program to get the integers in range (x, y).
+*/
