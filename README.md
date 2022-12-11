@@ -22,6 +22,9 @@ this files contains all of course & advance codes :)
   - specDecimalFormat
 - **week 2**: Recursion & Dynamic Programming
   - facrotial
+  - gcd
+  - getInteger
+  - array_sum
 - **week 3**: Search Algorithms
 - **week 4**: Sorting Algorithms
 - **week 5**: Space Complexity
