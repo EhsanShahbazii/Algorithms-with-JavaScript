@@ -5,3 +5,7 @@ const array_sum = (my_array) => {
     return my_array.pop() + array_sum(my_array);
   }
 };
+
+/*
+Write a JavaScript program to compute the sum of an array of integers. 
+*/
