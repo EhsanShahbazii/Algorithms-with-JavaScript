@@ -21,14 +21,16 @@ this files contains all of course & advance codes :)
   - randomNumber
   - specDecimalFormat
 - **week 2**: ***Recursion & Dynamic Programming***
+  - array_sum
+  - binarySearch
+  - exponent
   - facrotial
+  - fibonacciSeries
   - gcd
   - getInteger
-  - array_sum
-  - exponent
-  - fibonacciSeries
+  - mergeSort
   - isEven
-  - binarySearch
+  - test
 - **week 3**: ***Search Algorithms***
 - **week 4**: ***Sorting Algorithms***
 - **week 5**: ***Space Complexity***
