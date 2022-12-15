@@ -30,7 +30,7 @@ this files contains all of course & advance codes :)
   - [getInteger](Week1/getInteger.js)
   - [mergeSort](Week1/mergeSort.js)
   - [isEven](Week1/isEven.js)
-  - test[test](Week1/test.js)
+  - [test](Week1/test.js)
 - **week 3**: ***Search Algorithms***
 - **week 4**: ***Sorting Algorithms***
 - **week 5**: ***Space Complexity***
