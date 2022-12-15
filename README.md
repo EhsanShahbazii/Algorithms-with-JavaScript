@@ -2,6 +2,8 @@
 JavaScript Algorithms - The Fundamentals
 this files contains all of course & advance codes :)
 
+last update 2022 Dec 14
+
 ## Outline
 - **week 0**: ***Basics & Time Complexity***
 - **week 1**: Math Algorithms
