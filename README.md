@@ -8,6 +8,7 @@ last update 2022 Dec 14
 - **week 0**: ***Basics & Time Complexity***
 - **week 1**: Math Algorithms
   - [average](Week1/average.js)
+  - [arraySum](Week1/arraySum.js)
   - [baseConvert](Week1/baseConvert.js)
   - [binaryToDecimal](Week1/binaryToDecimal.js)
   - [calculateGcd](Week1/calculateGcd.js)
