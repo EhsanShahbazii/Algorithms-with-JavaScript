@@ -20,6 +20,7 @@ last update 2022 Dec 14
   - [getMin](Week1/getMin.js)
   - [hexDecConvert](Week1/hexDecConvert.js)
   - [isPrime](Week1/isPrime.js)
+  - [integerToRoman](Week1/integerToRoman.js)
   - [isPowerOfTwo](Week1/isPowerOfTwo.js)
   - [reverseANumber](Week1/reverseANumber.js)
   - [randomNumber](Week1/randomNumber.js)
