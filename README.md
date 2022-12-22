@@ -24,6 +24,7 @@ last update 2022 Dec 14
   - [isPowerOfTwo](Week1/isPowerOfTwo.js)
   - [reverseANumber](Week1/reverseANumber.js)
   - [randomNumber](Week1/randomNumber.js)
+  - [romanToInt](Week1/romanToInt.js)
   - [specDecimalFormat](Week1/specDecimalFormat.js)
 - **week 2**: ***Recursion & Dynamic Programming***
   - [array_sum](Week1/array_sum.js)
