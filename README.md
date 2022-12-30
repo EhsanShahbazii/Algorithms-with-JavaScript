@@ -34,5 +34,14 @@ this files contains all of course & advance codes :)
 |[reverseNumber](reverseNumber.js)| Write a JavaScript function to reverse a number. |
 |[romanToInt](romanToInt.js)| Write a JavaScript function that Convert Roman Numeral to Integer. |
 |[specDecimalFormat](specDecimalFormat.js)| Write a JavaScript function to show n digit of number. |
+|[createUUID](createUUID.js)| Write a JavaScript function to create a UUID identifier. |
+|[nthroot](nthroot.js)| Write a JavaScript function to calculate the nth root of a number. |
+|[radiansToDegrees](radiansToDegrees.js)| Write a JavaScript function to convert radians to degrees. |
+|[TSeparators](TSeparators.js)| Write a JavaScript function to show number with commas as thousands separators. |
+|[digitsCount](digitsCount.js)| Write a JavaScript function to count the digits of an integer. |
+|[combinations](combinations.js)| Write a JavaScript function to calculate the combination of n and r. |
+|[]()|  |
+|[]()|  |
 |[]()|  |
 
+42
