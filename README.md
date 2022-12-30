@@ -27,16 +27,12 @@ this files contains all of course & advance codes :)
 |[hexDecConvert](hexDecConvert.js)| Write a JavaScript program to convert hex dec. |
 |[integerToRoman](integerToRoman.js)| Write a JavaScript function that Convert an integer into a Roman numeral. |
 |[isEven](isEven.js)| Write a JavaScript program to check whether a number is even or not. |
+|[isPowerOfTwo](isPowerOfTwo.js)| Write a JavaScript program to check whether a number is power of two or not. |
+|[isPrime](isPrime.js)| Write a JavaScript program to check whether a number is prime or not. |
+|[mergeSort](mergeSort.js)| Write a merge sort program in JavaScript. |
+|[randomNumber](randomNumber.js)| Write a JavaScript function to generate random number. |
+|[reverseNumber](reverseNumber.js)| Write a JavaScript function to reverse a number. |
+|[romanToInt](romanToInt.js)| Write a JavaScript function that Convert Roman Numeral to Integer. |
+|[specDecimalFormat](specDecimalFormat.js)| Write a JavaScript function to show n digit of number. |
 |[]()|  |
-|[]()|  |
-|[]()|  |
-|[]()|  |
-|[]()|  |
-|[]()|  |
-|[]()|  |
-|[]()|  |
-|[]()|  |
-|[]()|  |
-|[]()|  |
-|[]()|  |
-|[]()|  |
+
