@@ -21,7 +21,7 @@ this files contains all of course & advance codes :)
 |[fibonacci](fibonacci.js)| Write a JavaScript program to generate fibonacci series. |
 |[fibonacciSeries](fibonacciSeries.js)| Write a JavaScript program to get the first n Fibonacci numbers. |
 |[formatToCurrency](formatToCurrency.js)| Write a JavaScript program to format currency. |
-|[gcd](gcd.js)| Write a JavaScript program to find the greatest common divisor (gcd) of two positive numbers. |
+|[gcd](gcd.js)| Write a JavaScript program to find the greatest common divisor gcd of two numbers. |
 |[getInteger](getInteger.js)| Write a JavaScript program to get the integers in range (x, y). |
 |[getMin](getMin.js)| Write a JavaScript program to find minimum of numbers. |
 |[hexDecConvert](hexDecConvert.js)| Write a JavaScript program to convert hex dec. |
